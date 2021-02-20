@@ -10,8 +10,8 @@ html, body {
 }
 
 #wrapper {
-  width: 100%;
-  max-width: 960px;
+  width: 90%;
+  max-width: 1280px;
   margin: auto;
 }
 
@@ -65,14 +65,17 @@ footer {
 
   #column-1 {
     background-color: #ac8abf;
+    width: 50%;
   }
 
   #column-2 {
     background-color: #8a6d9c;
+    width:50%;
   }
 
   #column-3 {
     background-color: #675373;
+    width: 100%;
   }
 
   footer {
@@ -90,14 +93,17 @@ footer {
 
   #column-1 {
     background-color: #acdb7f;
+    width: 33.333%;
   }
 
   #column-2 {
     background-color: #78ad45;
+    width: 33.333%;
   }
 
   #column-3 {
     background-color: #558c22;
+    width: 33.333%;
   }
 
   footer {
